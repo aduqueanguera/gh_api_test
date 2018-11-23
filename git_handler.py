@@ -29,11 +29,13 @@ def commit(msg: str):
     print('commit ---> ', out)
     print('commit ---> ', err)
 
+
 def main():
     checkout_branch(branch='tercera_rama')
     diff()
     add('--all')
     commit('comiteando')
+
 
 if __name__ == '__main__':
     main()
