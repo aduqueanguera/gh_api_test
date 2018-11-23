@@ -2,7 +2,7 @@ import os
 import subprocess
 
 
-class git_handler(object):
+class GitHandler(object):
     ORIGIN = 'origin'
     MASTER_BRANCH = 'master'
 
@@ -41,7 +41,7 @@ class git_handler(object):
 
 
 def main():
-    git = git_handler()
+    git = GitHandler()
     git.checkout_branch(branch='tercera_rama')
     git.diff()
     git.add('--all')
