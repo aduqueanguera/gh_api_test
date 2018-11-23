@@ -9,27 +9,32 @@ class git_handler(object):
     def __init__(self):
         pass
 
-    def checkout_branch(self, branch: str):
+    @staticmethod
+    def checkout_branch(branch: str):
         process = subprocess.Popen(['git', 'checkout', branch], stdout=subprocess.PIPE)
         out = process.communicate()
         print('checkout branch ---> ', out)
 
-    def diff(self):
+    @staticmethod
+    def diff():
         process = subprocess.Popen(['git', 'diff'], stdout=subprocess.PIPE)
         out = process.communicate()
         print('diff ---> ', out)
 
-    def add(self, files: str):
+    @staticmethod
+    def add(files: str):
         process = subprocess.Popen(['git', 'add', files], stdout=subprocess.PIPE)
         out = process.communicate()
         print('add ---> ', out)
 
-    def commit(self, msg: str):
+    @staticmethod
+    def commit(msg: str):
         process = subprocess.Popen(['git', 'commit', '-m', msg], stdout=subprocess.PIPE)
         out = process.communicate()
         print('commit ---> ', out)
 
-    def push(self, branch: str):
+    @staticmethod
+    def push(branch: str):
         process = subprocess.Popen(['git', 'push', git_handler.ORIGIN, branch], stdout=subprocess.PIPE)
         out = process.communicate()
         print('push ---> ', out)
