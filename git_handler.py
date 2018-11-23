@@ -11,9 +11,8 @@ class git_handler(object):
 
     def checkout_branch(self, branch: str):
         process = subprocess.Popen(['git', 'checkout', branch], stdout=subprocess.PIPE)
-        out, err = process.communicate()
+        out = process.communicate()
         print('checkout branch ---> ', out)
-        print('checkout branch ---> ', err)
 
     def diff(self):
         process = subprocess.Popen(['git', 'diff'], stdout=subprocess.PIPE)
