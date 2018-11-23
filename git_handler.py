@@ -30,7 +30,7 @@ class git_handler(object):
         print('commit ---> ', out)
 
     def push(self, branch: str):
-        process = subprocess.Popen(['git', 'push', git_handler.MASTER_BRANCH, branch], stdout=subprocess.PIPE)
+        process = subprocess.Popen(['git', 'push', git_handler.ORIGIN, branch], stdout=subprocess.PIPE)
         out = process.communicate()
         print('push ---> ', out)
 
