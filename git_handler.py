@@ -41,7 +41,7 @@ def main():
     git.diff()
     git.add('--all')
     git.commit('comiteando')
-    git.push(branch=tercera_rama)
+    git.push(branch='tercera_rama')
 
 
 if __name__ == '__main__':
