@@ -37,7 +37,7 @@ class git_handler(object):
 
 def main():
     git = git_handler()
-    git.checkout_branch(branch='tercera_rama')
+    git.checkout_branch(branch='tercerra_rama')
     git.diff()
     git.add('--all')
     git.commit('comiteando')
