@@ -1,0 +1,654 @@
+[33mcommit a5017e9f9577d5234464d372147fe9121fbd0509[m[33m ([m[1;36mHEAD -> [m[1;32mtercera_rama[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 327e270 fc8ecb3
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Mon Nov 26 16:27:20 2018 +0100
+
+    Merge pull request #16 from aduqueanguera/tercera_rama
+    
+    hola
+
+[33mcommit fc8ecb33a21ebf26c882856defff5ba8f4a64be3[m[33m ([m[1;31morigin/tercera_rama[m[33m)[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Mon Nov 26 16:07:35 2018 +0100
+
+    hola
+
+[33mcommit 327e27001a6c6c0e1c448b8795ca28675ab894b9[m
+Merge: 3b77222 fbb8ea2
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Mon Nov 26 16:07:04 2018 +0100
+
+    Merge pull request #15 from aduqueanguera/tercera_rama
+    
+    [[fix]]atoppeeeee
+
+[33mcommit fbb8ea2581c6c4483773c5f919ebcfd4879f9b83[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Mon Nov 26 16:06:19 2018 +0100
+
+    test commmit
+
+[33mcommit a6351c2772d35d21555255232b172762d22e8058[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Mon Nov 26 12:30:46 2018 +0100
+
+    coment gh coment
+
+[33mcommit 3b77222ba9b11b7f95cf8f71ca45c78e3ac7b8c1[m
+Merge: 0abd2de 957cca0
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Mon Nov 26 12:29:51 2018 +0100
+
+    Merge pull request #14 from aduqueanguera/tercera_rama
+    
+    [[fix]]atoppeeeee
+
+[33mcommit 957cca099973c5104a5b4384ca7f7baa77c9de49[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Mon Nov 26 12:28:14 2018 +0100
+
+    coment gh coment
+
+[33mcommit 2fbcffcf662fa3f5d2027e6e449e91decbb566f4[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Mon Nov 26 12:25:26 2018 +0100
+
+    coment gh coment
+
+[33mcommit 0abd2de3b9552adc35cf136728154dd7d8e576ad[m
+Merge: 326b353 40a9f6b
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Mon Nov 26 10:24:22 2018 +0100
+
+    Merge pull request #13 from aduqueanguera/tercera_rama
+    
+    [[fix]]atoppeeeee
+
+[33mcommit 326b35370bb6d87fb0e951cec362f16e85046aea[m
+Merge: 9ce54dc 87c3839
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Mon Nov 26 10:19:25 2018 +0100
+
+    Merge pull request #12 from aduqueanguera/tercera_rama
+    
+    [[fix]]atoppeeeee
+
+[33mcommit 40a9f6b236e4e16040603a2ad6e9c538cdd11980[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Mon Nov 26 10:19:05 2018 +0100
+
+    PR
+
+[33mcommit 87c3839ea81b7e211926420027b7f3a84a60e039[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Mon Nov 26 10:13:57 2018 +0100
+
+    hola.txt: cambios newPR
+
+[33mcommit 9ce54dc02fd86f82215e8fb936d41595a8bc002d[m
+Merge: 067f7c9 4b83f55
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Mon Nov 26 10:13:26 2018 +0100
+
+    Merge pull request #11 from aduqueanguera/tercera_rama
+    
+    [[fix]]atoppeeeee
+
+[33mcommit 4b83f5593dff3db5763a1674ee3f7cb8b4664efb[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Fri Nov 23 12:16:01 2018 +0100
+
+    [[fix]]atoppeeeee
+
+[33mcommit 00c0a430b834210e01e4ad515634a1bf3004084d[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Fri Nov 23 10:46:28 2018 +0100
+
+    comiteando
+
+[33mcommit 8d2e01984acbb7905aa6fdb059c1e24c82585f03[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Fri Nov 23 10:46:10 2018 +0100
+
+    comiteando
+
+[33mcommit 5844e545d6c1afcd448870e87f38b9dd731bccba[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Fri Nov 23 10:29:26 2018 +0100
+
+    comiteando
+
+[33mcommit 102d02d205efa17ea7b71f53bbdb2ae0958bef19[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Fri Nov 23 10:29:18 2018 +0100
+
+    comiteando
+
+[33mcommit d2a159f2bda7dc2dd90c84be3266715a671cd0c9[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Fri Nov 23 10:28:37 2018 +0100
+
+    comiteando
+
+[33mcommit dcf5fc970ef8a522ec8c667fa6832a9382c9430e[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Fri Nov 23 10:26:54 2018 +0100
+
+    comiteando
+
+[33mcommit 4808887456dc4994268340c367fa56a039559d80[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Fri Nov 23 10:26:41 2018 +0100
+
+    comiteando
+
+[33mcommit 80b5c9f7981b10422a73cbcbd5b59b2aa5077fa4[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Fri Nov 23 10:26:26 2018 +0100
+
+    comiteando
+
+[33mcommit 1f06cf0e173a8800327d101929098af1939b28d1[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Fri Nov 23 10:24:48 2018 +0100
+
+    comiteando
+
+[33mcommit 502b1ea0f5d4c2e676edddebd0d8aff3b464fa28[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Fri Nov 23 10:24:13 2018 +0100
+
+    comiteando
+
+[33mcommit 080c24a94e0e6994428ec6cf98bc0a4004473d80[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Fri Nov 23 10:15:45 2018 +0100
+
+    comiteando
+
+[33mcommit 38adb95b954ea2b165321770f91ec606ea490b04[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Fri Nov 23 10:14:12 2018 +0100
+
+    comiteando
+
+[33mcommit a1c494a1194a51176282514f3eeeb399231337d8[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 17:15:03 2018 +0100
+
+    [[fix]]atoppeeeee
+
+[33mcommit a3113662c030971e848e94c5883b95a938b22d42[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 17:00:23 2018 +0100
+
+    [[fix]]atoppeeeee
+
+[33mcommit 067f7c9af811ce331b6c73c873d2dee870e6f425[m
+Merge: 1bc44a9 fe230bd
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 17:00:00 2018 +0100
+
+    Merge pull request #4 from aduqueanguera/dev
+    
+    automatic commit
+
+[33mcommit fe230bd6147410ea44e6502e3ea0116e9fead61f[m[33m ([m[1;31morigin/dev[m[33m)[m
+Merge: ac6f788 1bc44a9
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 16:59:54 2018 +0100
+
+    Merge branch 'master' into dev
+
+[33mcommit 1bc44a98306c3d8ccd9820394569d1a55262e279[m
+Merge: 8bee0fa 76eeee9
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 16:59:37 2018 +0100
+
+    Merge pull request #10 from aduqueanguera/tercera_rama
+    
+    [[fix]]atoppeeeee
+
+[33mcommit 76eeee940bca42d5ca059cb11d892079dfb473fc[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 16:58:52 2018 +0100
+
+    [[fix]]atoppeeeee
+
+[33mcommit 8bee0fae4dccf4679c98009e7ee646bf7d93ea3c[m
+Merge: 1c93de5 f28e380
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 16:58:35 2018 +0100
+
+    Merge pull request #9 from aduqueanguera/tercera_rama
+    
+    [[fix]]atoppeeeee#87873
+
+[33mcommit f28e380963f212c7a27c81922f3110e7edf561af[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 16:41:47 2018 +0100
+
+    [[fix]]atoppeeeee
+
+[33mcommit 1c93de5663ca13401dfc49db905a39a3f583b292[m
+Merge: 715c2bb 3576988
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 16:41:30 2018 +0100
+
+    Merge pull request #8 from aduqueanguera/tercera_rama
+    
+    [[feat]]automatic commit#232333
+
+[33mcommit 3576988efa1df07c2578f04d0f4e1587a0671b86[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 16:41:12 2018 +0100
+
+    [[fix]]atoppeeeee
+
+[33mcommit 10b12967f88190b4781d3ac47c9230fe40784c86[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 16:00:32 2018 +0100
+
+    commit test
+
+[33mcommit 2c924ea1ec4c40318aac048f4663484b6ca4df8f[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 15:58:22 2018 +0100
+
+    commit test
+
+[33mcommit 715c2bb9fe239ea48688b998473d843146514184[m
+Merge: e39ef36 b3910a0
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 15:57:57 2018 +0100
+
+    Merge pull request #7 from aduqueanguera/tercera_rama
+    
+    automatic commit
+
+[33mcommit b3910a065f90be04c92cc5ac83e30d35d1c5cd47[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 15:57:22 2018 +0100
+
+    commit test
+
+[33mcommit 1e6814e68b8a654a98532ba9c018a3dec2fc9afb[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 13:49:45 2018 +0100
+
+    commit test
+
+[33mcommit 8586d2ab4c5602867e95ee479744190e94d91572[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 13:48:19 2018 +0100
+
+    commit test
+
+[33mcommit 3e4a2abdc7d90da01d59f726460effa2a944964f[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 13:45:43 2018 +0100
+
+    commit test
+
+[33mcommit a1da8bcad993b47f97033fe4545729f3c1e4d940[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 13:44:59 2018 +0100
+
+    commit test
+
+[33mcommit e39ef361a1de440a2bbd3c01b977cb7ef2be4451[m
+Merge: e13a2fb af3520b
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 13:26:10 2018 +0100
+
+    Merge pull request #6 from aduqueanguera/tercera_rama
+    
+    automatic commit
+
+[33mcommit af3520b47885f3dd489fbbc79a7707727577227f[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 13:20:46 2018 +0100
+
+    commit test
+
+[33mcommit 96d5dfa8f17f63ac0bc7e35b48989f62dfc45f89[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 13:19:46 2018 +0100
+
+    commit test
+
+[33mcommit 42282496445baec394796faa0ecaffa9cce16a58[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 13:18:28 2018 +0100
+
+    commit test
+
+[33mcommit 6c68824dfd5cfc0859dc0489da54d050027de50c[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 13:02:20 2018 +0100
+
+    commit test
+
+[33mcommit b581b24ad1191dd35d86e95959205595e5671625[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 13:01:41 2018 +0100
+
+    commit test
+
+[33mcommit e13a2fb5ec342a4d010c51e07eb5d2124750961b[m
+Merge: d384a4b c650c9b
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:58:21 2018 +0100
+
+    Merge pull request #5 from aduqueanguera/otra_rama
+    
+    otro commit
+
+[33mcommit c650c9bf42a2bd9931fb8ef54e355d3db02cdaa7[m[33m ([m[1;31morigin/otra_rama[m[33m)[m
+Merge: b2e382b d384a4b
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:58:08 2018 +0100
+
+    Merge branch 'master' into otra_rama
+
+[33mcommit b2e382bf98c6894105ce7a2d5908c3f6cd365532[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:49:00 2018 +0100
+
+    commit test
+
+[33mcommit 432fe30330ab6e8947fce26c607f051fe66f0a91[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:48:11 2018 +0100
+
+    commit test
+
+[33mcommit ac6f7880eaca3b88119d7595d5c2ea02fe0984b5[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:46:09 2018 +0100
+
+    commit test
+
+[33mcommit 4bbdd86cd6c3a791246fad81859c3d90efabf04e[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:45:04 2018 +0100
+
+    commit test
+
+[33mcommit bd6131d0bd3200766dcd5b6475b336dc437ac1c6[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:42:35 2018 +0100
+
+    commit test
+
+[33mcommit d384a4b3f09adab60ad34e3b3f8822d83848279d[m
+Merge: 3bf8bba 2f9f872
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:39:24 2018 +0100
+
+    Merge pull request #3 from aduqueanguera/dev
+    
+    pr_title
+
+[33mcommit 2f9f872b452d374dd0f8a2af74d8a21fbddfc9d1[m
+Merge: a5c84b9 b7372f3
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:28:12 2018 +0100
+
+    resolved conflicts
+
+[33mcommit a5c84b9ab149e1ab7ad79238af6495a642006566[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:27:19 2018 +0100
+
+    last commit
+
+[33mcommit 3bf8bbac02c5e9ce52829be81ec6409736a90c80[m
+Merge: 94e8980 b7372f3
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:26:07 2018 +0100
+
+    Merge pull request #2 from aduqueanguera/dev
+    
+    Dev
+
+[33mcommit b7372f3e7f0cfe8ab4359340d1bf7d217a41c045[m
+Merge: 2622d3d 94e8980
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:25:56 2018 +0100
+
+    Merge branch 'master' into dev
+
+[33mcommit 2622d3dd7d613f53eed1dab5c37cd2894167b3a1[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:19:50 2018 +0100
+
+    adios.txt
+
+[33mcommit d82043fdbdbb3223b1e034a493b4ededf9e1f7b3[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:16:28 2018 +0100
+
+    msg_commit
+
+[33mcommit c874d5a1c6c086af82ac8d8a84fb63c02639ddf9[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:13:03 2018 +0100
+
+    msg_commit
+
+[33mcommit dd06fd5096d978a3084929569860f79e5bb60f94[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:12:51 2018 +0100
+
+    msg_commit
+
+[33mcommit e597eb9b1daf90a1922a6d1477b4e8a64d3b2baf[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:12:22 2018 +0100
+
+    msg_commit
+
+[33mcommit 0fb2a2444630aec8cdd53f69b86e624559224d71[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:12:04 2018 +0100
+
+    msg_commit
+
+[33mcommit eba7fb2dfe2e4bdc77f6ac4940dc6b2c212bc559[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:11:51 2018 +0100
+
+    msg_commit
+
+[33mcommit a4f2c476a8e2aebae470b00cca588356905c9e9f[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:11:38 2018 +0100
+
+    msg_commit
+
+[33mcommit b1d8ccde13e0e7226593acec6314c5048da64f90[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:09:46 2018 +0100
+
+    msg_commit
+
+[33mcommit 317b5c5455b1fd7dfe624ac8b6d0c5c22f9ae30a[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:06:45 2018 +0100
+
+    msg_commit
+
+[33mcommit 521e6d2d6f8b6ac714dcd0504236228657bb478a[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 12:06:05 2018 +0100
+
+    msg_commit
+
+[33mcommit 33312da73f6b447ec3e1d377591c332f410f2c5f[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:58:50 2018 +0100
+
+    msg_commit
+
+[33mcommit 2bb634125e50f448d2b0acefb706b4cb951753ee[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:58:18 2018 +0100
+
+    msg_commit
+
+[33mcommit 3d96dd73530edc78c701a4581b96efbf696389f2[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:57:41 2018 +0100
+
+    msg_commit
+
+[33mcommit b397bb906a7c0eb6e5289dc894c98a6901b9d222[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:53:37 2018 +0100
+
+    msg_commit
+
+[33mcommit 83dbe90d18f20d3e7add520ea2d0b021b0ef90ef[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:53:03 2018 +0100
+
+    msg_commit
+
+[33mcommit 40e7381c83ced53b7672d590236ac71adfd18239[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:50:52 2018 +0100
+
+    msg_commit
+
+[33mcommit cd347cc5ad510153a222e97d6b0c90da08983326[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:46:18 2018 +0100
+
+    msg_commit
+
+[33mcommit 06fe8d0fcc659d1785e95fd28c807b6120acd858[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:39:07 2018 +0100
+
+    msg_commit
+
+[33mcommit 77a99168abeac346c76568032d73fb46ec9d5abb[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:37:09 2018 +0100
+
+    hola.txt:aaa
+
+[33mcommit 3c19a7f2bb5c716faf96aa40dc6e343a1fd340dc[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:36:33 2018 +0100
+
+    msg_commit
+
+[33mcommit 0399fc7f136aa3edc22bcee63ec3942439d916bb[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:35:40 2018 +0100
+
+    msg_commit
+
+[33mcommit 7ff6d3687977de0d0425d382473dc5f419ae2ee9[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:35:22 2018 +0100
+
+    msg_commit
+
+[33mcommit 8b9a6e62f336dae12b88c669e858a87edcf9b5ef[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:31:37 2018 +0100
+
+    msg_commit
+
+[33mcommit 9be603a0946306a0936dd93dbe0a9ce6a8003936[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:30:16 2018 +0100
+
+    msg_commit
+
+[33mcommit 19051070f5c09b83e818960c92cd35f184ca005e[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:28:38 2018 +0100
+
+    msg_commit
+
+[33mcommit 8b5a003779f4fa50b62cd1a387ef5230930b6a60[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:28:27 2018 +0100
+
+    msg_commit
+
+[33mcommit 9f2d93685ee80588b3a4b54cf6711f0d226a9066[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:28:09 2018 +0100
+
+    msg_commit
+
+[33mcommit 28e1550c26fbe87a331b3f18190ed629330264e9[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:26:41 2018 +0100
+
+    msg_commit
+
+[33mcommit c18631e8d57015a1f0dfadb98778f8ec94294e9d[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:26:24 2018 +0100
+
+    msg_commit
+
+[33mcommit 677b4a8a6767f4e7d229704ee943da4c48ff86b0[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:24:44 2018 +0100
+
+    msg_commit
+
+[33mcommit 7902d505e55b9b2bc07d1c466073f31e94af5d89[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:24:34 2018 +0100
+
+    msg_commit
+
+[33mcommit c910290c19be3b169105145908ba49b8270f2b0d[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:22:01 2018 +0100
+
+    msg_commit
+
+[33mcommit bd76a4777354bbacc6d9459a7f566c0b5efc3738[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 11:16:24 2018 +0100
+
+    eeeee
+
+[33mcommit 31619664e2ea66e685e7c3b9586d3292c4826e50[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 10:59:57 2018 +0100
+
+    adios.txt: cambios en dev
+
+[33mcommit 94e8980a51f59c16697646dabd0711b0ea5e00ba[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 10:58:07 2018 +0100
+
+    hola.txt: cambio~
+
+[33mcommit ec42a948b9a529ca0a5ce3ee06f561c319a69cdd[m
+Author: Adrian <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 10:38:28 2018 +0100
+
+    otro commit
+
+[33mcommit ab251d1b9bf09de06eaaf7f6fbff873ba410f3bc[m
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 10:36:53 2018 +0100
+
+    Create hola.txt
+
+[33mcommit a7e0253886d3027cb0572714e2c2fa1d6ecd5380[m
+Author: Adrián Duque <adrian.duqueanguera@telefonica.com>
+Date:   Thu Nov 22 10:36:20 2018 +0100
+
+    Initial commit
